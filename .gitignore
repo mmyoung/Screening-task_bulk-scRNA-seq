@@ -1,0 +1,16 @@
+# R / Quarto cache & history
+.Rhistory
+.quarto/
+
+# Data (customize to your structure)
+*.gz
+*.tsv
+*.csv
+*.xlsx
+*.rds
+*.pdf
+
+# (optional) if you have these directories
+data/
+raw_data/
+output/
